@@ -1,7 +1,7 @@
 # Simple_Calculator_App
 Build your first python software and package it into a standalone executable file
 
-##Intructions using PyCharm
+## Intructions using PyCharm
 1. Create a simple GUI
   - Use the Tkinker toolbox
   - Build buttons and labels
